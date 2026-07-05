@@ -4,7 +4,7 @@
 
 
 - 🎓 Graduated in **Computer Engineering** from **NUST, Islamabad, Pakistan**  
-- 💻 **Data Scientist** passionate about **Computer Science, Hardware Implementation of Machines, and Problem-Solving**  
+- 💻 **Data Scientist** passionate about **Computer Science and Problem-Solving**  
 - 🌱 Always eager to **learn and explore** new technologies  
 - 🤝 Looking to **collaborate** on exciting projects  
 
