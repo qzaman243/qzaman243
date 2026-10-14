@@ -15,17 +15,9 @@
 
 ## ⛩️ About Me
 
-<img src="assets/ronin.jpg" align="right" width="260" alt="Wandering samurai" />
-
-- 🎓 **Computer Engineer**, graduated from **NUST, Pakistan**
-- 🔬 Currently working with **Dr. Sagheer Khan (KFUPM)** on **IoT, IoMT and Digital Twins in Healthcare**
-- 📡 I teach machines to sense people through **invisible WiFi signals (CSI)**, with no cameras and no wearables
-- 🧠 Main interests: **AI • Machine Learning • IoT • Wireless Sensing • Edge Intelligence**
-- 📄 First-author paper **PiSense** published in *Computing* (Springer, 2026)
-- ⚔️ Motto: *Turn invisible signals into intelligent decisions*
-- 💬 Always happy to talk research. Let's build something great together!
-
-<br clear="right" />
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="About Qamar Zaman: Computer Engineer from NUST, working with Dr. Sagheer Khan (KFUPM) on IoT, IoMT and Digital Twins in Healthcare; interests in AI, ML, IoT, wireless sensing and edge intelligence" />
+</p>
 
 ---
 
