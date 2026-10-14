@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/qamar-zaman-0b5876203/"><img src="https://img.shields.io/badge/LinkedIn-Qamar%20Zaman-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" /></a>
   <a href="https://orcid.org/0009-0004-0467-902X"><img src="https://img.shields.io/badge/ORCID-0009--0004--0467--902X-00b4d8?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d0221" /></a>
   <a href="mailto:zqamar243463@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" /></a>
-  <a href="https://www.instagram.com/qzaman243463/"><img src="https://img.shields.io/badge/Instagram-qzaman243463-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0221" /></a>
+  <a href="https://www.instagram.com/m_qzaman/"><img src="https://img.shields.io/badge/Instagram-m__qzaman-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0221" /></a>
 </p>
 
 <p align="center"><i>「 The signal is everywhere. You only need to learn how to listen. 」</i></p>
@@ -23,20 +23,13 @@
 
 ## 🌙 About Me
 
-```python
-class QamarZaman:
-    def __init__(self):
-        self.role       = "Computer Engineer & AI Researcher"
-        self.education  = "B.E. Computer Engineering @ NUST, Pakistan"
-        self.current    = "IoT, IoMT & Digital Twins in Healthcare (with Dr. Sagheer Khan, KFUPM)"
-        self.interests  = ["Artificial Intelligence", "Machine Learning",
-                           "Internet of Things", "Wireless Sensing",
-                           "Edge Computing & Edge Intelligence"]
-        self.motto      = "Turn invisible signals into intelligent decisions ✦"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something magical together 🌌")
-```
+- 🎓 **Computer Engineer**, graduated from **NUST, Pakistan**
+- 🔬 Currently working with **Dr. Sagheer Khan (KFUPM)** on **IoT, IoMT and Digital Twins in Healthcare**
+- 📡 I teach machines to sense people through **invisible WiFi signals (CSI)**, with no cameras and no wearables
+- 🧠 Main interests: **AI • Machine Learning • IoT • Wireless Sensing • Edge Intelligence**
+- 📄 First-author paper **PiSense** published in *Computing* (Springer, 2026)
+- ⚡ Motto: *Turn invisible signals into intelligent decisions*
+- 💬 Always happy to talk research. Let's build something amazing together!
 
 ---
 
