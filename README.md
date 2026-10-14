@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/ronin.png" width="720" alt="Wandering ronin at dusk" />
-</p>
-
-<p align="center">
   <a href="https://qzaman243.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=D4A056&center=true&vCenter=true&width=720&height=45&lines=Silence+the+noise.+Read+the+signal.;Teaching+machines+to+sense+the+world;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+IoT+%E2%80%A2+Edge+Intelligence;Digital+twins+for+healthcare" alt="Typing intro" />
   </a>
@@ -27,6 +23,8 @@
 
 ## ⛩️ About Me
 
+<img src="assets/ronin.jpg" align="right" width="260" alt="Wandering samurai" />
+
 - 🎓 **Computer Engineer**, graduated from **NUST, Pakistan**
 - 🔬 Currently working with **Dr. Sagheer Khan (KFUPM)** on **IoT, IoMT and Digital Twins in Healthcare**
 - 📡 I teach machines to sense people through **invisible WiFi signals (CSI)**, with no cameras and no wearables
@@ -34,6 +32,8 @@
 - 📄 First-author paper **PiSense** published in *Computing* (Springer, 2026)
 - ⚔️ Motto: *Turn invisible signals into intelligent decisions*
 - 💬 Always happy to talk research. Let's build something great together!
+
+<br clear="right" />
 
 ---
 
