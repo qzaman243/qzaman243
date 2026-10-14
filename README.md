@@ -1,56 +1,115 @@
-## Hi there 👋  
+<!-- ✦ Header ✦ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0221,45:3a0ca3,75:7209b7,100:00f5ff&text=Qamar%20Zaman&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Computer%20Engineer%20%E2%9C%A6%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20IoT%20%E2%80%A2%20Wireless%20Sensing&descAlignY=60&descSize=18&animation=fadeIn" alt="Qamar Zaman" />
+</p>
 
-### I am Qamar Zaman  
+<p align="center">
+  <a href="https://qzaman243.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C792EA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%E2%9C%A6+Listening+to+invisible+WiFi+signals+%E2%9C%A6;Teaching+machines+to+sense+the+world+%F0%9F%8C%99;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+IoT+%E2%80%A2+Edge+Intelligence;Digital+twins+for+healthcare+%E2%9A%95%EF%B8%8F" alt="Typing intro" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://qzaman243.github.io"><img src="https://img.shields.io/badge/Website-qzaman243.github.io-7209b7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d0221" /></a>
+  <a href="https://www.linkedin.com/in/qamar-zaman-0b5876203/"><img src="https://img.shields.io/badge/LinkedIn-Qamar%20Zaman-3a0ca3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" /></a>
+  <a href="https://orcid.org/0009-0004-0467-902X"><img src="https://img.shields.io/badge/ORCID-0009--0004--0467--902X-00b4d8?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d0221" /></a>
+  <a href="mailto:zqamar243463@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" /></a>
+  <a href="https://www.instagram.com/qzaman243463/"><img src="https://img.shields.io/badge/Instagram-qzaman243463-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0221" /></a>
+</p>
 
-- 🎓 Graduated in **Computer Engineering** from **NUST, Islamabad, Pakistan**  
-- 💻 **Data Scientist** passionate about **Computer Science and Problem-Solving**  
-- 🌱 Always eager to **learn and explore** new technologies  
-- 🤝 Looking to **collaborate** on exciting projects  
+<p align="center"><i>「 The signal is everywhere. You only need to learn how to listen. 」</i></p>
 
 ---
 
-### 🔧 Languages and Tools:  
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+## 🌙 About Me
+
+```python
+class QamarZaman:
+    def __init__(self):
+        self.role       = "Computer Engineer & AI Researcher"
+        self.education  = "B.E. Computer Engineering @ NUST, Pakistan"
+        self.current    = "IoT, IoMT & Digital Twins in Healthcare (with Dr. Sagheer Khan, KFUPM)"
+        self.interests  = ["Artificial Intelligence", "Machine Learning",
+                           "Internet of Things", "Wireless Sensing",
+                           "Edge Computing & Edge Intelligence"]
+        self.motto      = "Turn invisible signals into intelligent decisions ✦"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something magical together 🌌")
+```
+
+---
+
+## 📜 Publications
+
+| | Title | Venue |
+|:-:|---|---|
+| 📄 | [**PiSense: A Raspberry Pi-Based Real-Time Occupancy Detection System Using CSI from Commodity WiFi**](https://link.springer.com/article/10.1007/s00607-026-01751-9) | *Computing* (Springer), 2026 |
+| 🗂️ | [**CSI Dataset for WiFi Based Human Detection**](https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection) | IEEE DataPort, 2025 |
+
+---
+
+## 🔮 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/qzaman243/WIFI-enabled-Occupancy-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qzaman243&repo=WIFI-enabled-Occupancy-Detection-System&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&icon_color=00f5ff&border_color=7209b7" />
+  </a>
+  <a href="https://github.com/qzaman243/Hybrid-Log-Classification-System-Using-Deepseek-R1-LLM-NLP-Regex-BERT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qzaman243&repo=Hybrid-Log-Classification-System-Using-Deepseek-R1-LLM-NLP-Regex-BERT&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&icon_color=00f5ff&border_color=7209b7" />
+  </a>
+  <a href="https://github.com/qzaman243/Q-ranker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qzaman243&repo=Q-ranker&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&icon_color=00f5ff&border_color=7209b7" />
+  </a>
+  <a href="https://github.com/qzaman243/Car-insurance-claim-prediction-by-using-XGBoost">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qzaman243&repo=Car-insurance-claim-prediction-by-using-XGBoost&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&icon_color=00f5ff&border_color=7209b7" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with me:  
-<p align="left">
-  <a href="mailto:zqamar243463@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/qamar-zaman-0b5876203/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/your-profile">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/qzaman243463/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+## ⚔️ Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,sklearn,fastapi,mysql,raspberrypi,arduino,linux,git,github,vscode&perline=7&theme=dark" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BERT-NLP-c792ea?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/LLMs-Deepseek%20R1-c792ea?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Sentence-Transformers-c792ea?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/WiFi-CSI%20Sensing-00f5ff?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Nexmon-Firmware-00f5ff?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Signal-DWT%20Processing-00f5ff?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/MATLAB-Analysis-ff6ac1?style=flat-square&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Selenium-Automation-ff6ac1?style=flat-square&labelColor=0d0221" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats:  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qzaman243&show_icons=true&theme=dark" alt="GitHub Stats" />
+## 🌌 GitHub Aura
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qzaman243&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&icon_color=00f5ff&border_color=7209b7" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzaman243&layout=compact&langs_count=8&bg_color=0d0221&title_color=c792ea&text_color=e0d7ff&border_color=7209b7" alt="Top languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzaman243&layout=compact&theme=dark" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qzaman243&background=0D0221&border=7209B7&ring=C792EA&fire=FF6AC1&currStreakNum=FFFFFF&sideNums=E0D7FF&currStreakLabel=00F5FF&sideLabels=C792EA&dates=9D8FC7" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qzaman243/qzaman243/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qzaman243/qzaman243/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/qzaman243/qzaman243/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center"><i>✦ Off the keyboard: books on history, quantum physics & religion 📚 • meditation 🧘 • gym 🏋️ • cricket 🏏 • pull-ups 🦾 ✦</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f5ff,25:7209b7,55:3a0ca3,100:0d0221" />
 </p>
