@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="0.55" stop-color="#1b232c"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d4a056" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#d4a056" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3d79b"/>
+      <stop offset="0.5" stop-color="#d4a056"/>
+      <stop offset="1" stop-color="#9c6b2e"/>
+    </linearGradient>
+    <linearGradient id="slash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b3261e" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#b3261e"/>
+      <stop offset="0.75" stop-color="#d4a056"/>
+      <stop offset="1" stop-color="#d4a056" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9aa7b4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9aa7b4" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#9aa7b4" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <mask id="crescent"><rect width="1200" height="340" fill="#000"/><circle cx="1040" cy="95" r="46" fill="#fff"/><circle cx="1060" cy="84" r="40" fill="#000"/></mask>
+    <filter id="soft" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- sky -->
+    <rect width="1200" height="340" fill="url(#sky)"/>
+
+    <!-- moon -->
+    <circle cx="1040" cy="95" r="120" fill="url(#moonGlow)"/>
+    <circle cx="1040" cy="95" r="46" fill="#d4a056" opacity="0.18"/>
+    <circle cx="1040" cy="95" r="46" fill="#e2b46a" mask="url(#crescent)"/>
+
+    <!-- far mountains -->
+    <path d="M0 250 L120 190 L210 230 L330 170 L450 235 L560 200 L700 240 L820 180 L940 230 L1060 195 L1200 240 L1200 340 L0 340 Z" fill="#141b22"/>
+    <!-- drifting mist -->
+    <rect x="-600" y="205" width="1400" height="60" fill="url(#mist)" filter="url(#soft)">
+      <animate attributeName="x" values="-600;400;-600" dur="40s" repeatCount="indefinite"/>
+    </rect>
+    <!-- near hills -->
+    <path d="M0 290 Q150 255 300 285 T600 280 T900 290 T1200 275 L1200 340 L0 340 Z" fill="#0c1014"/>
+
+    <!-- torii gate (left) -->
+    <g fill="#07090b" transform="translate(70 168)">
+      <path d="M-14 0 Q70 -14 154 0 L150 10 Q70 0 -10 10 Z"/>
+      <rect x="0" y="22" width="140" height="8"/>
+      <rect x="18" y="8" width="11" height="124"/>
+      <rect x="111" y="8" width="11" height="124"/>
+      <rect x="64" y="10" width="12" height="14"/>
+    </g>
+    <!-- small pagoda (right) -->
+    <g fill="#07090b" transform="translate(1085 196)">
+      <path d="M-34 22 L0 6 L34 22 Z"/>
+      <rect x="-20" y="22" width="40" height="18"/>
+      <path d="M-42 50 L0 32 L42 50 Z"/>
+      <rect x="-26" y="50" width="52" height="60"/>
+    </g>
+
+    <!-- embers / petals -->
+    <g>
+      <circle cx="240" cy="-10" r="2.2" fill="#d4a056"><animateTransform attributeName="transform" type="translate" values="0 0; -60 360" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite"/></circle>
+      <ellipse cx="380" cy="-10" rx="3.5" ry="1.8" fill="#b3261e"><animateTransform attributeName="transform" type="translate" values="0 0; -90 360" dur="11s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="11s" begin="2s" repeatCount="indefinite"/></ellipse>
+      <circle cx="520" cy="-10" r="1.8" fill="#e8c27a"><animateTransform attributeName="transform" type="translate" values="0 0; -40 360" dur="8s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="8s" begin="4s" repeatCount="indefinite"/></circle>
+      <ellipse cx="700" cy="-10" rx="3.5" ry="1.8" fill="#b3261e"><animateTransform attributeName="transform" type="translate" values="0 0; -80 360" dur="12s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="12s" begin="1s" repeatCount="indefinite"/></ellipse>
+      <circle cx="860" cy="-10" r="2.4" fill="#d4a056"><animateTransform attributeName="transform" type="translate" values="0 0; -70 360" dur="10s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="10s" begin="3s" repeatCount="indefinite"/></circle>
+      <ellipse cx="980" cy="-10" rx="3" ry="1.6" fill="#e8c27a"><animateTransform attributeName="transform" type="translate" values="0 0; -100 360" dur="13s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" dur="13s" begin="5s" repeatCount="indefinite"/></ellipse>
+      <circle cx="1120" cy="-10" r="1.8" fill="#b3261e"><animateTransform attributeName="transform" type="translate" values="0 0; -50 360" dur="9s" begin="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="9s" begin="6s" repeatCount="indefinite"/></circle>
+      <circle cx="140" cy="-10" r="1.6" fill="#e8c27a"><animateTransform attributeName="transform" type="translate" values="0 0; -30 360" dur="10s" begin="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="10s" begin="7s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- name -->
+    <text x="604" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700" letter-spacing="8" fill="url(#gold)" filter="url(#glow)">QAMAR ZAMAN</text>
+
+    <!-- sword slash -->
+    <line x1="330" y1="152" x2="870" y2="152" stroke="url(#slash)" stroke-width="3" stroke-linecap="round" stroke-dasharray="540" stroke-dashoffset="540">
+      <animate attributeName="stroke-dashoffset" values="540;0;0" keyTimes="0;0.15;1" dur="8s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- subtitle -->
+    <text x="600" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="4" fill="#d8cfc2">COMPUTER ENGINEER  ·  AI  ·  ML  ·  IoT  ·  WIRELESS SENSING</text>
+
+    <!-- rotating taglines -->
+    <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="19" fill="#d4a056" text-anchor="middle">
+      <text x="600" y="230" opacity="0">「 Silence the noise. Read the signal. 」<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+      <text x="600" y="230" opacity="0">「 Teaching machines to sense the world 」<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+      <text x="600" y="230" opacity="0">「 AI • Machine Learning • IoT • Edge Intelligence 」<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+      <text x="600" y="230" opacity="0">「 Strike with precision. 」<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.2;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- frame -->
+    <rect x="1" y="1" width="1198" height="338" rx="18" fill="none" stroke="#d4a056" stroke-opacity="0.45" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,23 +1,15 @@
 <!-- ⛩️ Header ⛩️ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0a0a0a,55:3b2414,100:d4a056&text=Qamar%20Zaman&fontColor=e8c27a&fontSize=60&fontAlignY=40&rotate=-6&desc=Computer%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20IoT%20%E2%80%A2%20Wireless%20Sensing&descAlignY=62&descAlign=48&descSize=17&animation=fadeIn" alt="Qamar Zaman" />
+  <a href="https://qzaman243.github.io"><img src="assets/banner.svg" width="100%" alt="Qamar Zaman · Computer Engineer · AI · ML · IoT · Wireless Sensing" /></a>
 </p>
 
 <p align="center">
-  <a href="https://qzaman243.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=D4A056&center=true&vCenter=true&width=720&height=45&lines=Silence+the+noise.+Read+the+signal.;Teaching+machines+to+sense+the+world;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+IoT+%E2%80%A2+Edge+Intelligence;Digital+twins+for+healthcare" alt="Typing intro" />
-  </a>
+  <a href="https://qzaman243.github.io"><img src="assets/btn-website.svg" height="40" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/qamar-zaman-0b5876203/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0004-0467-902X"><img src="assets/btn-orcid.svg" height="40" alt="ORCID" /></a>
+  <a href="mailto:zqamar243463@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+  <a href="https://www.instagram.com/m_qzaman/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram" /></a>
 </p>
-
-<p align="center">
-  <a href="https://qzaman243.github.io"><img src="https://img.shields.io/badge/Website-qzaman243.github.io-d4a056?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0a0a0a" /></a>
-  <a href="https://www.linkedin.com/in/qamar-zaman-0b5876203/"><img src="https://img.shields.io/badge/LinkedIn-Qamar%20Zaman-2e4a8b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="https://orcid.org/0009-0004-0467-902X"><img src="https://img.shields.io/badge/ORCID-0009--0004--0467--902X-6b5a45?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="mailto:zqamar243463@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-b3261e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="https://www.instagram.com/m_qzaman/"><img src="https://img.shields.io/badge/Instagram-m__qzaman-b3261e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" /></a>
-</p>
-
-<p align="center"><i>「 Silence the noise. Read the signal. Strike with precision. 」</i></p>
 
 ---
 
